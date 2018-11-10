@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/labels-section-ui-tweak-plugin.iml" filepath="$PROJECT_DIR$/labels-section-ui-tweak-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/top-labels-plugin.iml" filepath="$PROJECT_DIR$/top-labels-plugin.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,44 @@
+div.page-metadata-and-labels-container {
+
+    margin: -15px 0 20px;
+}
+
+/* make sure that the content does not leak into the container */
+div.page-metadata-and-labels-container::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+div.page-metadata-section {
+
+    float: left;
+    min-width: 30%;
+}
+
+div.page-metadata-and-labels-container > div:first-child {
+
+    margin-bottom: .2rem;
+}
+
+.page-metadata-section > .page-metadata {
+
+    margin: 0 !important;
+}
+
+div.cloned-labels-section {
+
+    float: right;
+}
+
+/* fix broken layout of likes and labels */
+#likes-and-labels-container > div {
+
+    overflow: unset !important;
+    width: auto !important;
+}
+
+#likes-and-labels-container > div:first-child {
+
+    margin-bottom: .2rem;
+}

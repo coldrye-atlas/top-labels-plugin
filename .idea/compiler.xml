@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="labels-section-ui-tweak-plugin" />
+        <module name="top-labels-plugin" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="labels-section-ui-tweak-plugin" target="1.8" />
+      <module name="top-labels-plugin" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

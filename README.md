@@ -1,4 +1,4 @@
-# labels-section-ui-tweak-plugin
+# Top Labels Plugin (top-labels-plugins)
 
 The plugin provides for a simple UI tweak that duplicates the labels section so that it can also be accessed from
 the top of the content instead of just at its bottom. The plugin is meant for use with Atlassian Confluence.
@@ -19,5 +19,5 @@ Using ``atlas-run`` allows you to try out the plugin locally.
 
 ## Additional License Information
 
-Part of the logo (the label icon) was adapted from the free Font Awesome icon library and is licensed 
+Part of the logo (the tag icon) was adapted from the free Font Awesome icon library and is licensed 
 under [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode).
